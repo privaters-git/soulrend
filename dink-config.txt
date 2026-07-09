@@ -92,7 +92,7 @@
   "collectionNotifMessage": "%USERNAME% has added %ITEM% to their collection",
   "collectionDenylist": "Dwarf remains\n",
 
-  "notifyChat": true,
+  "notifyChat": false,
   "chatMessageTypes": [
     "GAME"
   ],
