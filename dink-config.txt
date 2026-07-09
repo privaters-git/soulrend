@@ -43,7 +43,7 @@
     "TOB",
     "TOA"
   ],
-  "deathNotifMessage": "%USERNAME% is trying their best and that's okay",
+  "deathNotifMessage": "%USERNAME% is making Soulrend look bad.",
   "deathNotifPvpEnabled": false,
   "deathNotifPvpMessage": "%USERNAME% has just been PKed by %PKER% for %VALUELOST% gp...",
   "deathWebhook": "https://discord.com/api/webhooks/1524810592853033003/bVgaZwVpRnQFg4vSAhfjjeeuERHwBuVHlXNqZvS7gefjdtao0dns2HeynOWpnXBiZF5o",
@@ -152,7 +152,7 @@
   "seasonalPolicy": "REJECT",
 
   "discordRichEmbeds": true,
-  "embedColor": "#FFFF0000",
+  "embedColor": "#860ab8",
   "embedFooterText": " Powered By SoulRend",
   "embedFooterIcon": "https://github.com/pajlads/DinkPlugin/raw/master/icon.png",
   "threadNameTemplate": "[%TYPE%] {%USERNAME%} %MESSAGE%",
