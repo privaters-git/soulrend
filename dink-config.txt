@@ -44,14 +44,14 @@
     "TOA"
   ],
   "deathNotifMessage": "%USERNAME% is trying their best and that's okay",
-  "deathNotifPvpEnabled": true,
+  "deathNotifPvpEnabled": false,
   "deathNotifPvpMessage": "%USERNAME% has just been PKed by %PKER% for %VALUELOST% gp...",
-  "deathWebhook": "https://discord.com/api/webhooks/1462537572961095840/zIFL7OHR6dU4CdXeVS_NPz_dBIM94YzcKJLI_WR39BcYUZyR5K37X9_6_7tcvPUfn1ew",
+  "deathWebhook": "https://discord.com/api/webhooks/1524810592853033003/bVgaZwVpRnQFg4vSAhfjjeeuERHwBuVHlXNqZvS7gefjdtao0dns2HeynOWpnXBiZF5o",
 
   "lootEnabled": true,
-  "minLootValue": 2500000,
+  "minLootValue": 5000000,
   "lootSendImage": true,
-  "lootImageMinValue": 2500000,
+  "lootImageMinValue": 5000000,
   "lootIcons": false,
   "lootIncludeClueScrolls": true,
   "lootIncludeGambles": false,
@@ -62,14 +62,14 @@
   "lootRedirectPlayerKill": false,
   "lootNotifMessage": "%USERNAME% has looted: \n\n%LOOT%\nFrom: %SOURCE%",
   "lootItemAllowlist": "Magus vestige, Bellator vestige, Ultor vestige, Venator vestige, Araxyte fang, Leviathan's lure, Siren's staff, Executioner's axe head, Eye of the duke, Mokhaiotl cloth, Magma mutagen, Tanzanite mutagen, Ancient blood ornament kit, Purifying sigil (bottom), Purifying sigil (top), Purifying sigil (left), Purifying sigil (right), Purifying sigil (middle), Fire cape, Infernal cape, Dizana's quiver, Magus ring, Bellator ring, Ultor ring, Venator ring, Twisted ancestral colour kit, Metamorphic Dust, Sanguine Dust, Holy ornament kit, Sanguine ornament kit, Brutus slippers",
-  "lootWebhook": "https://discordapp.com/api/webhooks/1426956810459545600/eoZBWATSSXtVH_UjE2pUkYGoYVoZunmnIFWBSmVtgr7LrcbFjjrWYalSOmTHchLhA_2z",
+  "lootWebhook": "https://discord.com/api/webhooks/1524810355853885643/_FQBOXjp1ep967-CtLQ9mUA-iiOTiVwvYUOHA9XncQ6RxUIDX6nPGF1LXt-6q3r4TJdI",
 
   "clueEnabled": true,
   "clueSendImage": true,
   "clueShowItems": false,
   "clueMinTier": "BEGINNER",
-  "clueMinValue": 2500000,
-  "clueImageMinValue": 2500000,
+  "clueMinValue": 5000000,
+  "clueImageMinValue": 5000000,
   "clueNotifMessage": "%USERNAME% has completed a %CLUE% clue, they have completed %COUNT%.\nThey obtained:\n\n%LOOT%",
 
   "petEnabled": true,
@@ -161,6 +161,6 @@
   "baseRetryDelay": 2000,
   "imageWriteTimeout": 30,
 
-  "dynamicConfigUrl": "https://raw.githubusercontent.com/AnarchyAaron/Misfits-Dink/refs/heads/main/dink-settings.txt",
-  "discordWebhook": "https://discordapp.com/api/webhooks/1426956810459545600/eoZBWATSSXtVH_UjE2pUkYGoYVoZunmnIFWBSmVtgr7LrcbFjjrWYalSOmTHchLhA_2z"
+  "dynamicConfigUrl": "https://raw.githubusercontent.com/privaters-git/soulrend/refs/heads/main/dink-config.txt",
+  "discordWebhook": "https://discord.com/api/webhooks/1524810355853885643/_FQBOXjp1ep967-CtLQ9mUA-iiOTiVwvYUOHA9XncQ6RxUIDX6nPGF1LXt-6q3r4TJdI"
 }
