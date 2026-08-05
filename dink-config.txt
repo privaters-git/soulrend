@@ -49,9 +49,9 @@
   "deathWebhook": "https://discord.com/api/webhooks/1524810592853033003/bVgaZwVpRnQFg4vSAhfjjeeuERHwBuVHlXNqZvS7gefjdtao0dns2HeynOWpnXBiZF5o",
 
   "lootEnabled": true,
-  "minLootValue": 5000000,
+  "minLootValue": 0,
   "lootSendImage": true,
-  "lootImageMinValue": 5000000,
+  "lootImageMinValue": 0,
   "lootIcons": false,
   "lootIncludeClueScrolls": true,
   "lootIncludeGambles": false,
