@@ -106,12 +106,12 @@
   "tradeSendImage": false,
   "tradeNotifyMessage": "%USERNAME% traded with %COUNTERPARTY%",
 
-  "pkEnabled": false,
-  "pkSendImage": false,
+  "pkEnabled": true,
+  "pkSendImage": true,
   "pkMinValue": 0,
   "pkSkipSafe": false,
   "pkSkipFriendly": false,
-  "pkIncludeLocation": false,
+  "pkIncludeLocation": true,
   "pkNotifyMessage": "%USERNAME% has PK'd %TARGET%",
 
   "gambleEnabled": false,
