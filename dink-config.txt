@@ -59,7 +59,7 @@
   "lootRarityThreshold": 0,
   "lootRarityValueIntersection": true,
   "lootSourceDenylist": "Einar\n",
-  "lootRedirectPlayerKill": false,
+  "lootRedirectPlayerKill": true,
   "lootNotifMessage": "%USERNAME% has looted: \n\n%LOOT%\nFrom: %SOURCE%",
   "lootItemAllowlist": "Magus vestige, Bellator vestige, Ultor vestige, Venator vestige, Araxyte fang, Leviathan's lure, Siren's staff, Executioner's axe head, Eye of the duke, Mokhaiotl cloth, Magma mutagen, Tanzanite mutagen, Ancient blood ornament kit, Purifying sigil (bottom), Purifying sigil (top), Purifying sigil (left), Purifying sigil (right), Purifying sigil (middle), Fire cape, Infernal cape, Dizana's quiver, Magus ring, Bellator ring, Ultor ring, Venator ring, Twisted ancestral colour kit, Metamorphic Dust, Sanguine Dust, Holy ornament kit, Sanguine ornament kit, Brutus slippers, Elder venator fang",
   "lootWebhook": "https://discord.com/api/webhooks/1524810355853885643/_FQBOXjp1ep967-CtLQ9mUA-iiOTiVwvYUOHA9XncQ6RxUIDX6nPGF1LXt-6q3r4TJdI",
