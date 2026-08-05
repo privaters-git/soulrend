@@ -49,9 +49,9 @@
   "deathWebhook": "https://discord.com/api/webhooks/1524810592853033003/bVgaZwVpRnQFg4vSAhfjjeeuERHwBuVHlXNqZvS7gefjdtao0dns2HeynOWpnXBiZF5o",
 
   "lootEnabled": true,
-  "minLootValue": 0,
+  "minLootValue": 5000000,
   "lootSendImage": true,
-  "lootImageMinValue": 0,
+  "lootImageMinValue": 5000000,
   "lootIcons": false,
   "lootIncludeClueScrolls": true,
   "lootIncludeGambles": false,
@@ -111,7 +111,7 @@
   "pkMinValue": 0,
   "pkSkipSafe": false,
   "pkSkipFriendly": false,
-  "pkIncludeLocation": true,
+  "pkIncludeLocation": false,
   "pkNotifyMessage": "%USERNAME% has PK'd %TARGET%",
 
   "gambleEnabled": false,
