@@ -44,7 +44,7 @@
     "TOA"
   ],
   "deathNotifMessage": "%USERNAME% is making Soulrend look bad.",
-  "deathNotifPvpEnabled": false,
+  "deathNotifPvpEnabled": true,
   "deathNotifPvpMessage": "%USERNAME% has just been PKed by %PKER% for %VALUELOST% gp...",
   "deathWebhook": "https://discord.com/api/webhooks/1524810592853033003/bVgaZwVpRnQFg4vSAhfjjeeuERHwBuVHlXNqZvS7gefjdtao0dns2HeynOWpnXBiZF5o",
 
@@ -106,8 +106,8 @@
   "tradeSendImage": false,
   "tradeNotifyMessage": "%USERNAME% traded with %COUNTERPARTY%",
 
-  "pkEnabled": false,
-  "pkSendImage": false,
+  "pkEnabled": true,
+  "pkSendImage": true,
   "pkMinValue": 0,
   "pkSkipSafe": false,
   "pkSkipFriendly": false,
