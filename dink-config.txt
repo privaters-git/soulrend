@@ -106,8 +106,8 @@
   "tradeSendImage": false,
   "tradeNotifyMessage": "%USERNAME% traded with %COUNTERPARTY%",
 
-  "pkEnabled": true,
-  "pkSendImage": true,
+  "pkEnabled": false,
+  "pkSendImage": false,
   "pkMinValue": 0,
   "pkSkipSafe": false,
   "pkSkipFriendly": false,
