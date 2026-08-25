@@ -161,6 +161,6 @@
   "baseRetryDelay": 2000,
   "imageWriteTimeout": 30,
 
-  "dynamicConfigUrl": "https://raw.githubusercontent.com/privaters-git/soulrend/refs/heads/main/dink-config.txt?token=GHSAT0AAAAAAEBPEZ2EP2DQ3FRKJE76VANU2UND5BA",
+  "dynamicConfigUrl": "https://raw.githubusercontent.com/privaters-git/soulrend/refs/heads/main/dink-config.txt",
   "discordWebhook": "https://discord.com/api/webhooks/1524810355853885643/_FQBOXjp1ep967-CtLQ9mUA-iiOTiVwvYUOHA9XncQ6RxUIDX6nPGF1LXt-6q3r4TJdI"
 }
