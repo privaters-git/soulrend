@@ -46,7 +46,7 @@
   "deathNotifMessage": "%USERNAME% is making Soulrend look bad.",
   "deathNotifPvpEnabled": true,
   "deathNotifPvpMessage": "%USERNAME% has just been PKed by %PKER% for %VALUELOST% gp...",
-  "deathWebhook": "https://discord.com/api/webhooks/1542149544509444178/ciy6I7SM71ZelsrbR2_CMYaMG0m7CCDEjrO9fJ9quzfs0PRcslsZM_ykEKfXoIEs4Zr_",
+  "deathWebhook": "https://dink.pajlada.se/webhook/dd9a069501295521c10627c649aeaad5b687ac4a9fb1eb74a810d4f61d045ac8",
 
   "lootEnabled": true,
   "minLootValue": 5000000,
@@ -62,7 +62,7 @@
   "lootRedirectPlayerKill": false,
   "lootNotifMessage": "%USERNAME% has looted: \n\n%LOOT%\nFrom: %SOURCE%",
   "lootItemAllowlist": "Magus vestige, Bellator vestige, Ultor vestige, Venator vestige, Araxyte fang, Leviathan's lure, Siren's staff, Executioner's axe head, Eye of the duke, Mokhaiotl cloth, Magma mutagen, Tanzanite mutagen, Ancient blood ornament kit, Purifying sigil (bottom), Purifying sigil (top), Purifying sigil (left), Purifying sigil (right), Purifying sigil (middle), Fire cape, Infernal cape, Dizana's quiver, Magus ring, Bellator ring, Ultor ring, Venator ring, Twisted ancestral colour kit, Metamorphic Dust, Sanguine Dust, Holy ornament kit, Sanguine ornament kit, Brutus slippers, Elder venator fang",
-  "lootWebhook": "https://discord.com/api/webhooks/1542149544509444178/ciy6I7SM71ZelsrbR2_CMYaMG0m7CCDEjrO9fJ9quzfs0PRcslsZM_ykEKfXoIEs4Zr_",
+  "lootWebhook": "https://dink.pajlada.se/webhook/e78b75567d762bb852dce076f312600d4fc95e9c978d90e81520445e5ff0b6a1",
 
   "clueEnabled": true,
   "clueSendImage": true,
@@ -162,5 +162,5 @@
   "imageWriteTimeout": 30,
 
   "dynamicConfigUrl": "https://raw.githubusercontent.com/privaters-git/soulrend/refs/heads/main/dink-config.txt",
-  "discordWebhook": "https://discord.com/api/webhooks/1542149544509444178/ciy6I7SM71ZelsrbR2_CMYaMG0m7CCDEjrO9fJ9quzfs0PRcslsZM_ykEKfXoIEs4Zr_"
+  "discordWebhook": ""
 }
