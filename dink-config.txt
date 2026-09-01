@@ -162,5 +162,5 @@
   "imageWriteTimeout": 30,
 
   "dynamicConfigUrl": "https://raw.githubusercontent.com/privaters-git/soulrend/refs/heads/main/dink-config.txt",
-  "discordWebhook": ""
+  "discordWebhook": "https://dink.pajlada.se/webhook/e78b75567d762bb852dce076f312600d4fc95e9c978d90e81520445e5ff0b6a1"
 }
