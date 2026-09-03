@@ -68,7 +68,7 @@
   "clueSendImage": true,
   "clueShowItems": false,
   "clueMinTier": "BEGINNER",
-  "clueMinValue": 5000000,
+  "clueMinValue": 10000,
   "clueImageMinValue": 5000000,
   "clueNotifMessage": "%USERNAME% has completed a %CLUE% clue, they have completed %COUNT%.\nThey obtained:\n\n%LOOT%",
 
