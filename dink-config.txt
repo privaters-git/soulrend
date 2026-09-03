@@ -49,7 +49,7 @@
   "deathWebhook": "https://dink.pajlada.se/webhook/dd9a069501295521c10627c649aeaad5b687ac4a9fb1eb74a810d4f61d045ac8",
 
   "lootEnabled": true,
-  "minLootValue": 1000,
+  "minLootValue": 10000,
   "lootSendImage": true,
   "lootImageMinValue": 5000000,
   "lootIcons": false,
