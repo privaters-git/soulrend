@@ -51,7 +51,7 @@
   "lootEnabled": true,
   "minLootValue": 1000,
   "lootSendImage": true,
-  "lootImageMinValue": 1000,
+  "lootImageMinValue": 5000000,
   "lootIcons": false,
   "lootIncludeClueScrolls": true,
   "lootIncludeGambles": false,
